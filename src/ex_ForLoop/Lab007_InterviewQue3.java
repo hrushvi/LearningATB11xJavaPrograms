@@ -1,4 +1,4 @@
-package ex_Loops;
+package ex_ForLoop;
 
 public class Lab007_InterviewQue3 {
     public static void main(String[] args) {

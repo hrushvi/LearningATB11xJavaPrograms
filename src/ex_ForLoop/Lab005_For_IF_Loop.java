@@ -1,4 +1,4 @@
-package ex_Loops;
+package ex_ForLoop;
 
 public class Lab005_For_IF_Loop {
     public static void main(String[] args) {

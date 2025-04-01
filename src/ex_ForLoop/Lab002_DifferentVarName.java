@@ -1,4 +1,4 @@
-package ex_Loops;
+package ex_ForLoop;
 
 public class Lab002_DifferentVarName {
     public static void main(String[] args) {
